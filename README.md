@@ -4,6 +4,6 @@
 
 ## Introduction
 
-##Purpose
+## Purpose
 
-##How To Contribute
+## How To Contribute
